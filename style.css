@@ -202,7 +202,7 @@ body {
 }
 
 #first-half {
-	margin-top: 30px;
+	margin-top: 50px;
 	height: 100%;
 	width: 100%;
 /*	background-color: green;*/
@@ -259,7 +259,7 @@ body {
 	background-color: transparent;
 	color: white;
 	border: 2px solid white;
-	font-size: 45px;
+	font-size: 42px;
 }	
 
 #images-section {
