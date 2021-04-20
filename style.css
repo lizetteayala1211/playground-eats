@@ -286,7 +286,17 @@ body {
 	border: 2px solid white;
 	font-size: 55px;
 }
-
+	
+#eats-scrolling-text {
+    font-family: "EuroStar-Regular-Extended";
+    color: white;
+    font-size: 45px;
+    height: 50%;
+    width: 80%;
+    align-content: center;
+    align-self: center;
+    align-items: center;    
+}	
 
 #images-section {
     width: 100%;
