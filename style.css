@@ -39,7 +39,6 @@ body {
 }
 
 #first-half {
-	margin-top: 30px;
 	height: 100%;
 	width: 50%;
 /*	background-color: green;*/
@@ -104,6 +103,31 @@ body {
 	color: #0066FF;
 	font-style: italic;
 	cursor: pointer; 
+}
+
+
+#eats-scrolling-navigation-container {
+    height: 10%;
+    width: 100%;
+    border-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#eats-scrolling-text {
+    font-family: "EuroStar-Regular-Extended";
+    color: white;
+    font-size: 24px;
+    height: 50%;
+    width: 80%;
+    border-bottom: 20px;
+    align-content: center;
+    align-self: center;
+    align-items: center;    
+}
+
+#marquee-text {
+    border-bottom: 20px;
 }
 
 /* Rotating images */
@@ -203,7 +227,7 @@ body {
 }
 
 #first-half {
-	margin-top: 50px;
+	margin-top: 30px;
 	height: 100%;
 	width: 100%;
 /*	background-color: green;*/
@@ -251,7 +275,7 @@ body {
     align-self: center;
     align-items: center;
 }
-	
+
 #order-button {
 	font-family: "EuroStar-Regular-Extended";
 	height: 50%;
@@ -261,7 +285,8 @@ body {
 	color: white;
 	border: 2px solid white;
 	font-size: 55px;
-}	
+}
+
 
 #images-section {
     width: 100%;
